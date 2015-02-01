@@ -1,37 +1,44 @@
-## Automated Testing Playbook
+## Grouplet Playbook
 
-A set of principles, practices, idioms, and strategies pertaining to automated
-software testing and its adoption.
+A "Grouplet" (or "Working Group", or "Guild", or what-have-you) is a
+self-organizing team of volunteers that aims to address a concern affecting a
+broad segment of the organization. Grouplet leaders have no authority and
+little if any direct resources; it is incumbent upon them to recruit
+volunteers and make the best use of their time.
 
-This guide is a distillation of the principles found in Mike Bland's [Unit
-Testing Perspectives](href="http://goo.gl/eE8IUw) presentation, licensed under
-[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/deed.en_US), based on a
-high-level outline by Mike and Dr. Robert Read of 18F. It also contains content
-copied directly from several of [Mike's personal blog
-posts](https://mike-bland.com/)</a> as well as some of his posts on [AutoTest
-Central](http://autotestcentral.com/)</a>; both blogs are also licensed under
-CC BY 4.0.</p>
+This guide aims to provide aspiring Grouplet organizers with a "bag of tricks"
+for:
 
-This playbook is divided into four sections:
+- getting a Grouplet organized and productive very quickly,
+- for maintaining team cohesion over time,
+- for understanding the various forces at play in an organization, and
+- for making the entire undertaking both high-impact and fun!
 
-### [Principles, Practices and Idioms](pages/principles-practices-idioms.md)
+This guide is contains content also found in the [18F Automated Testing
+Playbook](https://github.com/18F/automated-testing-playbook), which is based
+on Mike Bland's [Unit Testing Perspectives](http://goo.gl/eE8IUw)
+presentation, which is licensed under [CC BY
+4.0](http://creativecommons.org/licenses/by/4.0/deed.en_US).
 
-Fundamental automated testing and design concepts that inform the craft of
-writing automated tests and testable code.
+Mike's (very) long-form article [Goto Fail, Heartbleed, and Unit Testing
+Culture](http://martinfowler.com/articles/testing-culture.html#culture-change)
+contains many more details and examples regarding the Google Testing
+Grouplet's effort to drive adoption of automated testing. His hour-long talk
+[Large Scale Development Culture Change: Google and the US
+Government](https://18f.gsa.gov/2014/12/11/large-scale-development-culture-change/)
+is an attempt to relate many of these experiences to the effort to improve
+federal government IT development practices.
 
-### [APIs and Legacy Systems](pages/apis-and-legacy-systems.md)
+This playbook is divided into two sections:
 
-Technical impediments to the automated testing of existing systems and how
-to overcome them.
+### [Processes and Artifacts](pages/processes-and-artifacts.md)
 
-### [Rapid Prototyping](pages/rapid-prototyping.md)
-
-When it's OK to get by without writing automated tests, and when it's time
-to switch gears and add them.
+Processes and artifacts that can help rapidly organize a grouplet, as well as
+maintain momentum, productivity, and morale.
 
 ### [Education and Advocacy](pages/education-and-advocacy.md)
 
-Models and strategies for driving adoption of automated testing throughout a
+Models and strategies for driving adoption of best practices throughout a
 development culture.
 
 ### Generating the site/hosting locally
@@ -45,8 +52,8 @@ rebuilt.
 To run your own local instance:
 
 ```
-$ git clone git@github.com:18F/automated-testing-playbook.git
-$ cd automated-testing-playbook
+$ git clone git@github.com:18F/grouplet-playbook.git
+$ cd grouplet-playbook
 $ ./go init
 $ ./go serve
 ```
@@ -54,14 +61,14 @@ $ ./go serve
 This will check that your Ruby version is supported, install the [Bundler
 gem](http://bundler.io/) if it is not yet installed, install all the gems
 needed by the playbook, and launch a running instance on
-`http://localhost:4000/automated-testing-playbook/`.
+`http://localhost:4000/grouplet-playbook/`.
 
 After going through these steps, run `./go` to see a list of available
 commands. The `serve` command is the most common for routine development.
 
 ### Contributing
 
-1. Fork the repo ( https://github.com/18F/automated-testing-playbook/fork )
+1. Fork the repo ( https://github.com/18F/grouplet-playbook/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
