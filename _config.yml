@@ -28,4 +28,4 @@ defaults:
       layout: "default"
       edit_info:
         repo: 18F/grouplet-playbook
-        branch: master
+        branch: gh-pages
