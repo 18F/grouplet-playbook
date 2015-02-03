@@ -4,7 +4,7 @@ A "Grouplet" (or "Working Group", or "Guild", or what-have-you) is a
 self-organizing team of volunteers that aims to address a concern affecting a
 broad segment of the organization. Grouplet leaders have no authority and
 little if any direct resources; it is incumbent upon them to recruit
-volunteers and make the best use of their time.
+volunteers and make the best use of their time. 
 
 This guide aims to provide aspiring Grouplet organizers with a "bag of tricks"
 for:
