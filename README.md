@@ -29,7 +29,7 @@ Government](https://18f.gsa.gov/2014/12/11/large-scale-development-culture-chang
 is an attempt to relate many of these experiences to the effort to improve
 federal government IT development practices.
 
-This playbook is divided into two sections:
+This playbook is divided into three sections:
 
 ### [TL;DR](pages/tldr.md)
 
