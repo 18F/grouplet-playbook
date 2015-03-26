@@ -17,7 +17,8 @@ These are proposed workflows for 18F but can be readily adapted for use by other
 * At any one point, there should be at least one (ideally two) organizers.   
 * Each working group should post a general description of the group's purpose in the slack channel description and set 1 or more initial goals.  Goals can be added or updated at any time and removed with done or it is decided that they are no longer goals.
 
-Memorialize in https://github.com/18F/data-private/tree/master/working_groups with: 
+Memorialize in https://github.com/18F/data-private/tree/master/working_groups with:  
+
 * leads
 * mission
 * key results 
