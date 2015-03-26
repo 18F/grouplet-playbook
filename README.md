@@ -31,6 +31,10 @@ federal government IT development practices.
 
 This playbook is divided into two sections:
 
+### [TL;DR](pages/tldr.md)
+
+A high-level view of how 18F working groups are launched and paused.
+
 ### [Processes and Artifacts](pages/processes-and-artifacts.md)
 
 Processes and artifacts that can help rapidly organize a grouplet, as well as
