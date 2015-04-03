@@ -48,6 +48,11 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting",
-        "_playbook"
+        "syntax-highlighting"
 ;
+
+strong {
+    // Firefox won't render the strong tag as bold here unless it's explicitly
+    // told to do so.
+    font-weight: bold;
+}

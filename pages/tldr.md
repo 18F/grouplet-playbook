@@ -6,6 +6,8 @@ title: Summary
 
 _Work in Progress - Please Edit_
 
+A high-level view of how 18F working groups are launched and paused.
+
 These are proposed workflows for 18F but can be readily adapted for use by other teams.  
 
 ## Birth Process for Working Groups 

@@ -1,5 +1,5 @@
 # Site settings
-title: Grouplet Playbook
+title: 18F Grouplet Playbook
 email: michael.bland@gsa.gov
 description: >
   A set of principles, practices, idioms, and strategies pertaining to
@@ -29,3 +29,41 @@ defaults:
       edit_info:
         repo: 18F/grouplet-playbook
         branch: gh-pages
+
+# DOCter bits after this
+
+name: Grouplet Playbook
+subtitle:
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: 18F
+  url: https://18f.gsa.gov/
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/18f-logo.png
+logoalt: 18F logo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Introduction
+  url: index.html
+  internal: true
+- text: "TL;DR"
+  url: tldr/
+  internal: true
+- text: Processes and Artifacts
+  url: processes-and-artifacts/
+  internal: true
+- text: Education and Advocacy
+  url: education-and-advocacy/
+  internal: true
+
+repos:
+- name: 18F Grouplet Playbook
+  description: Main repository
+  url: https://github.com/18F/grouplet-playbook
+
+# Style Variables
+brand_color: "#1188ff"
