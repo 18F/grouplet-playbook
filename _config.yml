@@ -50,7 +50,7 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: "TL;DR"
+- text: Summary
   url: tldr/
   internal: true
 - text: Processes and Artifacts
