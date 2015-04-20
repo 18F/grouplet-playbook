@@ -6,6 +6,10 @@ _Work in Progress - Please Edit_
 
 A high-level view of how 18F working groups are launched and paused.
 
+The advice here and throughout this guide applies to both guilds and working
+groups. See the _Guilds_ topic for information on how guilds differ from
+working groups.
+
 These are proposed workflows for 18F but can be readily adapted for use by other teams.  
 
 ## Birth Process for Working Groups 
@@ -33,4 +37,3 @@ Memorialize in https://github.com/18F/data-private/tree/master/working_groups wi
 ## Re-Activating a Working Group
 * Anyone can join a paused working group and re-activate it if they feel that there are new objectives and sufficient interest from the team to pursue them.  
 * This can be done by requesting the re-activation of the working group's slack channel in #slack-admins and changing the working group's status from 'paused' to 'active' in https://github.com/18F/data-private/tree/master/working_groups.  
-

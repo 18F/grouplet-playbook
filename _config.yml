@@ -53,6 +53,9 @@ navigation:
 - text: Summary
   url: tldr/
   internal: true
+- text: Guilds
+  url: guilds/
+  internal: true
 - text: Processes and Artifacts
   url: processes-and-artifacts/
   internal: true
