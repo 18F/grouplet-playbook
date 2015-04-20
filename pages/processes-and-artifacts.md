@@ -2,8 +2,6 @@
 permalink: /processes-and-artifacts/
 title: Processes and Artifacts
 ---
-## {{ page.title }}
-
 Processes and artifacts that can help rapidly organize a grouplet, as well as
 maintain momentum, productivity, and morale.
 
@@ -24,7 +22,7 @@ maintain momentum, productivity, and morale.
 - [Fixits](#fixits)
 - [Exit Strategy](#exit-strategy)
 
-### <a name="two-pager"></a>The Two-Pager
+## <a name="two-pager"></a>The Two-Pager
 
 When faced with the task of forming a new grouplet, a very useful exercise is
 to write a two-page document describing the [Mission](#mission) of the
@@ -35,7 +33,7 @@ helps to clarify your thinking and course of action, and serves as an effective
 the grouplet very quickly and see how they may be able to pitch in and
 contribute right away.
 
-### <a name="mission"></a>The Mission Statement
+## <a name="mission"></a>The Mission Statement
 
 It should go without saying that there should be a one-sentence mission
 statement describing why the grouplet should exist. It is the reason for
@@ -55,7 +53,7 @@ Here are a few examples:
   working groups and guilds can thrive and have a meaningful impact on 18F
   deliverables and operations.
 
-### <a name="okrs"></a>Objectives and Key Results
+## <a name="okrs"></a>Objectives and Key Results
 
 The "Objectives and Key Results" process, or "OKRs for short", is a quarterly
 process for setting goals and reviewing progress. It involves defining roughly
@@ -100,7 +98,7 @@ As an example, here are propspective OKRs for the 18F Testing Grouplet:
 _(Note: At Google, every individual, team, and department maintains a set of
 quarterly OKRs, as does the entire company.)_
 
-### <a name="roles"></a>Roles
+## <a name="roles"></a>Roles
 
 Though a Grouplet leader (usually) isn't in a formal supervisory role over
 other Grouplet members, there is still a strong need to establish a basic,
@@ -169,7 +167,7 @@ individuals. One person can serve more than one role, and one role can be
 filled by more than one person. The important part is that the functions and
 those responsible for them are made clear.
 
-### <a name="macguffin"></a>MacGuffin
+## <a name="macguffin"></a>MacGuffin
 
 "[MacGuffin](http://en.wikipedia.org/wiki/MacGuffin)" is the film industry term
 for an object that drives the action of the plot. In _Pulp Fiction_, it was
@@ -189,7 +187,7 @@ Results](#okrs). Some examples:
 - **18F Working Group Working Group**: [The 18F Grouplet
   Playbook](https://github.com/18F/grouplet-playbook/)
 
-### <a name="recruiting"></a>Recruiting
+## <a name="recruiting"></a>Recruiting
 
 So you've defined a [Mission](#mission), broken out [Objectives and Key
 Results](#okrs), defined fun-sounding [Roles](#roles), started implementing a
@@ -208,7 +206,7 @@ change the road you're on:
   respond to any bites. Follow up with one-on-one invitations, or announce the
   initial [Kick-Off Meeting](#kick-off) at the same time.
 
-### <a name="kickoff"></a>Kick-Off Meeting
+## <a name="kickoff"></a>Kick-Off Meeting
 
 With your [Two-Pager](#two-pager) in-hand, use it as the official agenda for
 the first Kick-Off meeting. Ideally you've already had a one-on-one [recruiting
@@ -216,7 +214,7 @@ chat](#recruiting) with most of the people in the room; this ensures that the
 meeting goes quickly, and that other people besides the organizers have a
 chance to speak about some of their own ideas.
 
-### <a name="meetings"></a>Weekly Meetings
+## <a name="meetings"></a>Weekly Meetings
 
 After the warm-fuzzies of the initial [recruiting phase](#recruiting) and the
 [Kick-Off Meeting](#kick-off) have worn off, it's critical to maintain momentum
@@ -241,7 +239,7 @@ _even if that means biting your tongue when no one will speak up!_ If you let
 the group get used to you breaking all of the silences, it will gladly let you
 continue to do so.
 
-### <a name="tasklist"></a>Task List
+## <a name="tasklist"></a>Task List
 
 The grouplet should maintain a centralized Task List to keep track of all the
 different efforts underway, large and small. The beginning of each [weekly
@@ -265,7 +263,7 @@ spreadsheet, or a full-blown issue tracker or project management program. As an
 example, the [18F Documentation Working Group Trello
 board](https://trello.com/b/cI4LmXOj/wg-documentation) is publicly-accessible.
 
-### <a name="agenda"></a>Weekly Agenda
+## <a name="agenda"></a>Weekly Agenda
 
 Publishing a one-page weekly agenda is one of the most important items for
 ensuring [weekly meetings](#meetings) remain focused. Members who attend should
@@ -285,7 +283,7 @@ something's better than nothing. A recommended structure for the document is:
 - A spot for "other business" at the end, where the Historian can note other
   topics that may have arisen during the meeting
 
-### <a name="breakouts"></a>Breakout Meetings
+## <a name="breakouts"></a>Breakout Meetings
 
 Sometimes topics will arise that are too large to discuss during the course of
 the [weekly meeting](#weekly-meeting). Rather than let the [Agenda](#agenda)
@@ -306,7 +304,7 @@ contributors within a community of peers, rather than mere followers of the
 organizers. It's also a chance for members to takes turns driving meetings and
 initiatives before inheriting the organizer role one day.
 
-### <a name="outcomes"></a>Artifacts, Assumptions, and Measurable Outcomes
+## <a name="outcomes"></a>Artifacts, Assumptions, and Measurable Outcomes
 
 This exercise is about evaluating the assumptions behind the "Key Results"
 component of the [Objectives and Key Results](#okrs) process. Create a table
@@ -343,7 +341,7 @@ Nick Brethauer):
 </div>
 </div>
 
-### <a name="chatroom"></a>Chat Room
+## <a name="chatroom"></a>Chat Room
 
 If it's convenient, having an online chat room in which members can discuss
 grouplet business and make announcements is a great way to foster community
@@ -353,7 +351,7 @@ pertinent discussions. 18F is a heavy user of [Slack](https://slack.com);
 naturally every grouplet-like group has its own Slack channel for this
 purpose.
 
-### <a name="hub"></a>Hub
+## <a name="hub"></a>Hub
 
 A "Hub" is basically an information radiator that enables grouplet members to
 share and discover information easily. It can take the form of a shared drive,
@@ -364,7 +362,7 @@ project](https://18f.gsa.gov/2014/12/23/hub/) as a means of taking this
 concept to the extreme for the entire team, not just for the working group
 itself.
 
-### <a name="fixits"></a>Fixits
+## <a name="fixits"></a>Fixits
 
 Fixits are traditionally one-day sprints where people are asked to put aside
 normal project work and focus on "important but not urgent" tasks. They are
@@ -386,7 +384,7 @@ stated goals of the Fixit itself:
   push beyond a tipping point, ratcheting the overall culture-change effort up
   to a new plateau.
 
-### <a name="exit-strategy"></a>Exit Strategy
+## <a name="exit-strategy"></a>Exit Strategy
 
 A healthy grouplet doesn't depend on the vision and effort of one or two
 people. As an organizer, you should start scouting for a successor on day one.

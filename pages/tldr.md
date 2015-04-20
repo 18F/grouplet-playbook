@@ -2,8 +2,6 @@
 permalink: /tldr/
 title: Summary
 ---
-## {{ page.title }}
-
 _Work in Progress - Please Edit_
 
 A high-level view of how 18F working groups are launched and paused.

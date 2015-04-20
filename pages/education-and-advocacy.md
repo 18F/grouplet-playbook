@@ -2,8 +2,6 @@
 permalink: /education-and-advocacy/
 title: Education and Advocacy
 ---
-## {{ page.title }}
-
 Models and strategies for driving adoption of best practices throughout a
 development culture.
 
@@ -16,7 +14,7 @@ development culture.
 - [Seize the Teachable Moments!](#seize-the-moment)
 - [Play the Long Game](#play-the-long-game)
 
-### <a name="abandon-data"></a>Abandon Data and Absolute Reason
+## <a name="abandon-data"></a>Abandon Data and Absolute Reason
 
 Best practices are often more about _avoiding_ visible impact than _producing_
 it. Such negative impact is practically [impossible to
@@ -36,14 +34,14 @@ Alternatively, turn the argument around: Ask for the data that conclusively
 made the case for using programming language X, or text editor Y, or hosting
 platform Z.
 
-### <a name="everything-is-not-for-everyone"></a>Everything Is Not for Everyone
+## <a name="everything-is-not-for-everyone"></a>Everything Is Not for Everyone
 
 Taking Test-Driven Development as an example, the end result is well-tested
 code; TDD is not the only means to get there. The goal is to promote best
 practices that people perceive as having value based on their own experience,
 not on the basis of coersion or academic purity.
 
-### <a name="crossing-the-chasm"></a>Crossing the Chasm
+## <a name="crossing-the-chasm"></a>Crossing the Chasm
 
 Geoffrey A. Moore’s book *[Crossing the
 Chasm](http://en.wikipedia.org/wiki/Crossing_the_Chasm)* first explains the
@@ -66,7 +64,7 @@ Early Adopters and the Early Majority. Crossing the Chasm is what determines
 the success or failure of an initiative, as crossing it is necessary to
 achieve widespread adoption.
 
-### <a name="the-chasm"></a>The Chasm
+## <a name="the-chasm"></a>The Chasm
 
 Using automated testing adoption as an example, the “chasm” may be
 characterized as:
@@ -105,12 +103,12 @@ the Instigators to “Independent”:
 - **Empower**: Early Majority members are able to do the work, with ongoing
   support from Instigators
 
-### <a name="poor-quality-not-an-issue"></a>“Poor Quality” Code Not an Issue
+## <a name="poor-quality-not-an-issue"></a>“Poor Quality” Code Not an Issue
 
 “Poor quality” code is not part of the chasm. It is a symptom, not a cause.
 Spread ideas and remove obstacles, and the code will improve.
 
-### <a name="googles-testing-grouplet"></a>Case Study: Google’s Testing Grouplet
+## <a name="googles-testing-grouplet"></a>Case Study: Google’s Testing Grouplet
 
 Google's **Testing Grouplet** was a team of volunteers pooling their 20% time
 to drive adoption of automated developer testing, in the most serious and fun
@@ -138,7 +136,7 @@ Death](../assets/images/testing-grouplet-rainbow-of-death.jpg)<br/>
 _Derived from Albert Wong’s original framework slide from a Google-internal
 tech talk._
 
-### <a name="seize-the-moment"></a>Seize the Teachable Moments!
+## <a name="seize-the-moment"></a>Seize the Teachable Moments!
 
 “goto fail” and Heartbleed were prime examples of why unit testing is so
 critical. Both bugs were unit-testable, as proven by the working code in the
@@ -156,7 +154,7 @@ When making our arguments, it’s important to emphasize “why” we follow a
 practice as well as “how”. The “why” may be obvious to the Instigators who
 already “get it”, but not necessarily to everyone.
 
-### <a name="play-the-long-game"></a>Play the Long Game
+## <a name="play-the-long-game"></a>Play the Long Game
 
 Lasting change never comes quickly. Eschew
 _[authoritah](http://shop.southparkstudios.com/SOUTH-PARK-CARTMAN-POSTER-You-will/A/B00302A3OI.htm)_;
