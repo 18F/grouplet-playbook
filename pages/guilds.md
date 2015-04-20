@@ -69,8 +69,8 @@ in service to organizational priorities.
 
 Broadly speaking, guild responsibilities include:
 
-* Establishing standards and/or best practices for work pertaining to the
-  guild's domain
+* Establishing [standards and/or best practices](http://18f.github.io/guides/)
+  for work pertaining to the guild's domain
 * Helping others outside the guild gain experience and understanding of the
   guild's domain
 * Define and work toward [milestones, artifacts, and
@@ -78,6 +78,6 @@ Broadly speaking, guild responsibilities include:
 * Delegate and organize other team members, as appropriate
 * Foster cross-org collaboration
 * Drive toward decisions that will set a baseline and standards for the entire
-  org
+  organization
 * Check in on projects regarding the standards they're setting and their ease
   of implementation
