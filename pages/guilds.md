@@ -2,42 +2,44 @@
 permalink: /guilds/
 title: Guilds
 ---
-_THIS SECTION IS IN DRAFT pending review and ratification by 18F guild
-leadership and the Working Group Working Group._
 
-* [Classification](#classification)
 * [Formation](#formation)
 * [Sponsorship and Accountability](#sponsorship-and-accountability)
 * [Privileges and Responsibilities](#privileges-and-responsibilities)
 
+A **Guild** formally recognizes a strong need by 18F
+for a specific skillset that benefits from additional attention and
+leadership.
 
-## <a name="classification"></a>Classification
+A guild is a cross-functional/horizontal team.  Most people self-select as
+members of the guild, but a guild may require project teams identify a
+guild-liason or augment the team with a guild member to support the team
+or, sometimes, ensure compliance with legal requirements or established practices.
 
-At 18F, Grouplets are classified into two types:
+Each Guild must draft a charter, which must include goals and measures,
+to which they hold each other accountable, and may include
+[objectives and milestones they are working toward]({{site.baseurl}}/processes-and-artifacts/#okrs). Guild leads are accountable for hitting milestones, making progress toward goals,
+including taking steps to measure progress.  The guild may establish
+requirements for project teams; however, those requirements must clearly
+contribute to project success or legal requirements, and the guild must support
+the project team in meeting those requirements.
 
-A **Guild** is a cross-functional/horizontal team working on a topic of great
-interest or benefit to the team writ large. They should have [milestones and
-goals they are working toward and to which they hold each other
-accountable]({{site.baseurl}}/processes-and-artifacts/#okrs). Guild leads are
-accountable for hitting those milestones.
 
-A **Working Group** is an ad hoc group that spins up or down depending on
-current needs to solve a problem, work through a question, or collectively
-think on something. 
-
-Operationally, guilds and working groups should function very similarly. The
-advice throughout this guide applies equally to both types of grouplet.
+Guild leaders have a responsibility to make sure we, 18F, are strong in the
+guild area of expertise.  
+If we are, then the guild can provide passive resources and be responsible
+for periodic evaluation or other measure to monitor the strength of the team.  
+If needed, guild leaders must carve out enough time to ensure that the guild
+provide appropriate resources for the team, which may involve requesting additional people
+to devote dedicated time for specific projects or activities that are needed to support the work of the guild.
 
 ## <a name="formation"></a>Formation
 
 Guilds can come into existence via one of two avenues: Leadership can request
-that a team member lead a particular guild; or a self-organized working group
+that a team member lead a particular guild; or a self-organized [working group](working-group)
 can petition leadership to acquire guild status.
 
-While working groups may be created by any member of the team at any time,
-guilds serve as a way to formally recognize when there is a strong need by 18F
-for a specific skillset that benefits from additional attention and
-leadership. Anyone may join a guild as a member at any time, although guild
+Anyone may join a guild as a member at any time, although guild
 leaders will be chosen based on their experience both inside and outside of
 18F, and their demonstrated ability with the guild area of focus.
 
@@ -51,33 +53,32 @@ work, and make a formal announcement if the guild is created.
 
 All guilds will have a sponsor on the leadership team. The sponsor is not
 responsible for setting the objectives for a guild, but will check in to
-ensure a guild is setting objectives and holding itself accountable.
+ensure a guild is holding itself accountable to its goals.
 
 Guild sponsors will convene one meeting each quarter to evaluate guild
 progress. Based on the outcome of this meeting, the sponsor may recommend
 spinning down a guild or revoke sponsorship altogether. If a guild has its
-sponsorship revoked, it may continue to operate as a working group, but will
-no longer receive mentorship and advocacy from a sponsor.
+sponsorship revoked, its charter may need to be revised to remove project team
+requirements and may lose dedicated resources, however, it may continue to operate as a working group.
 
 ## <a name="privileges-and-responsibilities"></a>Privileges and Responsibilities
 
 Sponsorship implies that guilds have a voice in discussions amongst the 18F
 leadership team. This in turn implies that guilds may more easily influence
-the objectives of the broader team than working groups. The price of this
-representation is a responsibility for setting and meeting objectives that are
-in service to organizational priorities.
+the objectives of the broader team than working groups. Collaboration with
+the guild sponsor allows for aligning guild objectives with 18F organizational priorities.
 
-Broadly speaking, guild responsibilities include:
+Guild responsibilities include:
 
-* Establishing [standards and/or best practices](http://18f.github.io/guides/)
+* Establish a Charter
+* Develop [standards and/or best practices](http://18f.github.io/guides/)
   for work pertaining to the guild's domain
-* Helping others outside the guild gain experience and understanding of the
+* Help others outside the guild gain experience and understanding of the
   guild's domain
-* Define and work toward [milestones, artifacts, and
+* Develop measurable outcomes
+* As needed, define and work toward [milestones, artifacts, and
   deliverables]({{site.baseurl}}/processes-and-artifacts/#okrs)
-* Delegate and organize other team members, as appropriate
-* Foster cross-org collaboration
-* Drive toward decisions that will set a baseline and standards for the entire
+* Provide a model that will set a baseline and standards for the entire
   organization
-* Check in on projects regarding the standards they're setting and their ease
-  of implementation
+* Create a way to validate how projects are doing with regard to the guild area of expertise
+  that provides clear benefit to the project while minimizing disruption
