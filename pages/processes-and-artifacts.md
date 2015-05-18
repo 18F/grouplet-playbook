@@ -63,11 +63,41 @@ objective and serve to demonstrate measurable progress. Ideally most of these
 are framed in terms of problems to solve, not specific features to build; this
 enables grouplet members to devise their own creative solutions.
 
+### <a name="objectives"></a>Objectives
+
+Your objective should be about impact of your work, rather than the work product.  For example,
+"increase the number of people below the poverty line who have access to food" instead of
+"build a webapp to provide foodstamps" -- you may be tasked with the latter,
+but your real goal is the former. Of course, for a single quarter, you will often
+need to break down your project objective into something you can accomplish in that time.
+
+A good objective meausres progress towward a goal. It often takes some effort and
+creativity by your team to come up with a way to measure your goal.  If you
+can't yet come up with metrics to determine your impact, consider that measuring
+baseline metrics could be itself an objective. You can build prototypes or
+create software designs as part of the objective, but ensure that your activities
+also include learning about the impact (or potential impact) of those activities.
+
+### <a name="measures"></a>Measures (aka "Key Results")
+Ideally you will measure something at the beginning of your work and then
+at intervals.  Be careful not to be overly focused on quantitative data.
+Especially at first, you will need to gather qualitative results to
+validate that your work has impact.  Quantitative metrics will be important
+to evaluate your impact as you scale; however, when you are just getting
+started is the time to come up with ideas of how you might measure your impact
+and start to gather early data.
+
+Measure results at regular intervals, which may be weekly, after each sprint or
+monthly, depending on the cadence of your work. In order to meet quarterly
+objectives, you will need to capture your results more frequently, evaluate,
+and iterate in order to meet your objectives.
+
+### <a name="review"></a>Review
 At the end of the quarter, the team will review and self-grade each Objective
 and Key Result, as well as the OKRs overall, on a scale from 0.0 to 1.0. The
 "ideal" score is 0.7, which is indicative of a "stretch goal": a goal that was
 beyond the team's reach, but pushed the team to accomplish more than they would
-have given a more conservative goal. 
+have given a more conservative goal.
 
 OKRs are designed to produce focus and enable calibration of expectations.
 Self-grading is a feedback process; a low grade doesn't necessarily denote
@@ -75,28 +105,24 @@ failure, nor does a high grade denote success. The process serves to ensure the
 team is moving in the direction of its own choosing, and making satisfactory
 progress according to its own ambitions.
 
-When prospective [recruits](#recruiting) see a set of OKRs in your
-[Two-Pager](#two-pager), they can better understand the priorities and begin to
-imagine how the grouplet can succeed in acheiving its goals. This boosts your
-credibility as a leader, as someone who will ensure that their limited time is
-well-spent in the context of the grouplet.
+### <a name="okr-examples"></a>Example of Effective OKRs
+When prospective [recruits](#recruiting) and team members see a set of OKRs,
+they can better understand the priorities and begin to
+imagine how they can contribute to achieving the goals. This increases
+effective collaboration and boosts your
+credibility as a leader as someone who will ensure that their time is
+well-spent.
 
-As an example, here are propspective OKRs for the 18F Testing Grouplet:
+As an example, here are some 18F Engineering team OKRs:
 
-- **O: Respond to the automated testing needs and priorities of 18F products**
-  - **KR:** Survey existing 18F projects to determine current state of
-    automated testing
-- **O: Effectively disseminate knowledge of automated testing best practices**
-  - **KR:** Complete a full review of the Automated Testing Playbook
-  - **KR:** Develop a Test Certified-like program and recruit three projects to
-    participate
-  - **KR:** Develop a body of in-house training materials
-- **O: Develop, maintain, and promote use of automated testing tools**
-  - **KR:** Publish an Automated Testing Handbook with tools and technical
-    details for specific scenarios
+**Objective:** Streamline project deployment
+* **KR**: define a measure of project deployment effort: initial deployment, iterative updates to software, ATO
+* **KR**: Continue to reduce the work and time of deployment by adding service integrations to the Cloud Foundry PaaS (RDS, Elasticsearch)
 
-_(Note: At Google, every individual, team, and department maintains a set of
-quarterly OKRs, as does the entire company.)_
+**Objective:** Deliver quality products
+* **KR**: A dashboard of quality metrics with goal of 100% for automated tests, 508 compliance, and
+fully documented APIs [list shortened for the purposes of this example]
+
 
 ## <a name="roles"></a>Roles
 
@@ -140,7 +166,7 @@ minutes fall under this rubric.
 **Minister of Communication: <span class="role-danger">Mike Bland</span>**<br/>
 Ensures that the Slack channel and other communication media are accessible,
 useful, and broadly used by the group. May suggest alternate communication
-media or innovative uses of the media already in use. 
+media or innovative uses of the media already in use.
 
 **Ministers of Information: <span class="role-ok">Shawn Allen</span>**<br/>
 Solicits and helps cultivate content; in this context, ensures that all
