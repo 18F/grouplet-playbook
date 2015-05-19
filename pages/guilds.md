@@ -28,7 +28,7 @@ the project team in meeting those requirements.
 Guild leaders have a responsibility to make sure we, 18F, are strong in the
 guild area of expertise.  
 If we are, then the guild can provide passive resources and be responsible
-for periodic evaluation or other measure to monitor the strength of the team.  
+for periodic evaluation or other measures to monitor the strength of the team.
 If needed, guild leaders must carve out enough time to ensure that the guild
 provide appropriate resources for the team, which may involve requesting additional people
 to devote dedicated time for specific projects or activities that are needed to support the work of the guild.
@@ -36,7 +36,7 @@ to devote dedicated time for specific projects or activities that are needed to 
 ## <a name="formation"></a>Formation
 
 Guilds can come into existence via one of two avenues: Leadership can request
-that a team member lead a particular guild; or a self-organized [working group](working-group)
+that a team member lead a particular guild; or a self-organized [working group]({{site.baseurl}}/working-groups)
 can petition leadership to acquire guild status.
 
 Anyone may join a guild as a member at any time, although guild
@@ -59,7 +59,7 @@ Guild sponsors will convene one meeting each quarter to evaluate guild
 progress. Based on the outcome of this meeting, the sponsor may recommend
 spinning down a guild or revoke sponsorship altogether. If a guild has its
 sponsorship revoked, its charter may need to be revised to remove project team
-requirements and may lose dedicated resources, however, it may continue to operate as a working group.
+requirements and may lose dedicated resources; however, it may continue to operate as a working group.
 
 ## <a name="privileges-and-responsibilities"></a>Privileges and Responsibilities
 
@@ -71,7 +71,7 @@ the guild sponsor allows for aligning guild objectives with 18F organizational p
 Guild responsibilities include:
 
 * Establish a Charter
-* Develop [standards and/or best practices](http://18f.github.io/guides/)
+* Develop [standards and/or best practices](https://pages.18.gov/guides/)
   for work pertaining to the guild's domain
 * Help others outside the guild gain experience and understanding of the
   guild's domain
