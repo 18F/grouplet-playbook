@@ -7,7 +7,7 @@ maintain momentum, productivity, and morale.
 
 - [The Two-Pager](#two-pager)
 - [The Mission Statement](#mission)
-- [Objectives and Key Results](#okrs)
+- [Outcomes and Metrics](#outcomes)
 - [Roles](#roles)
 - [MacGuffin](#macguffin)
 - [Recruiting](#recruiting)
@@ -16,7 +16,7 @@ maintain momentum, productivity, and morale.
 - [Task List](#tasklist)
 - [Weekly Agenda](#agenda)
 - [Breakout Meetings](#breakouts)
-- [Artifacts, Assumptions, and Measurable Outcomes](#outcomes)
+- [Artifacts, Assumptions, and Metrics](#metrics)
 - [Chat Room](#chatroom)
 - [Hub](#hub)
 - [Fixits](#fixits)
@@ -26,7 +26,7 @@ maintain momentum, productivity, and morale.
 
 When faced with the task of forming a new grouplet, a very useful exercise is
 to write a two-page document describing the [Mission](#mission) of the
-grouplet, its [Objectives and Key Results](#okrs), and the initial set of
+grouplet, its [Outcomes and Metrics](#outcomes), and the initial set of
 [Roles](#roles) that will form the grouplet's basic structure. This two-pager
 helps to clarify your thinking and course of action, and serves as an effective
 [recruting artifact](#recruiting), as prospective volunteers can get a feel for
@@ -53,50 +53,80 @@ Here are a few examples:
   working groups and guilds can thrive and have a meaningful impact on 18F
   deliverables and operations.
 
-## <a name="okrs"></a>Objectives and Key Results
+## <a name="outcomes"></a>Outcomes and Metrics
 
-The "Objectives and Key Results" process, or "OKRs for short", is a quarterly
+The "Outcomes and Measures" process, or "Outcomes" for short, is a quarterly
 process for setting goals and reviewing progress. It involves defining roughly
-three-to-five high-level strategic "Objectives" that support the team's overall
-[mission](#mission), and defining a number of "Key Results" that implement each
-objective and serve to demonstrate measurable progress. Ideally most of these
-are framed in terms of problems to solve, not specific features to build; this
-enables grouplet members to devise their own creative solutions.
+two-to-three high-level strategic "Outcomes" that support the team's overall
+[mission](#mission), and defining a number of "Metrics" that aim to evaluate
+progress toward the outcome. By framing the outcome in terms of problems
+to solve or positive impact, this framework creates flexibility for people to invent their own creative solutions, and modify the specific approach, if needed.
 
-At the end of the quarter, the team will review and self-grade each Objective
-and Key Result, as well as the OKRs overall, on a scale from 0.0 to 1.0. The
-"ideal" score is 0.7, which is indicative of a "stretch goal": a goal that was
-beyond the team's reach, but pushed the team to accomplish more than they would
-have given a more conservative goal. 
+### Outcomes
 
-OKRs are designed to produce focus and enable calibration of expectations.
-Self-grading is a feedback process; a low grade doesn't necessarily denote
-failure, nor does a high grade denote success. The process serves to ensure the
-team is moving in the direction of its own choosing, and making satisfactory
-progress according to its own ambitions.
+Each outcome should be about impact of your work, rather than the work product.  For example,
+"increase the number of people below the poverty line who have access to food" instead of
+"build a webapp to provide foodstamps" -- you may be tasked with the latter,
+but your real goal is the former. Of course, for a single quarter, you will often
+need to break down your project outcome into something you can accomplish in that time.
 
-When prospective [recruits](#recruiting) see a set of OKRs in your
-[Two-Pager](#two-pager), they can better understand the priorities and begin to
-imagine how the grouplet can succeed in acheiving its goals. This boosts your
-credibility as a leader, as someone who will ensure that their limited time is
-well-spent in the context of the grouplet.
+A good outcome will show progress toward a larger goal. It often takes some effort and
+creativity by your team to come up with a way to measure the impact of your work.  If you
+can't yet come up with metrics to determine your impact, consider that establishing
+baseline measures could itself be an outcome. Learning about your target audience
+will have tremendous value as you create a solution.  You can build prototypes or
+create software designs as part of the work, but the outcome is how those activities
+help you understand the impact (or potential impact) of the work.
 
-As an example, here are propspective OKRs for the 18F Testing Grouplet:
+### <a name="measures"></a>Measures and Metrics
+Ideally you will measure something at the beginning of your work and then
+at intervals.  Be careful not to be solely focused on quantitative data.
+Especially at first, you will need to gather qualitative results to
+validate that your work has impact.  Quantitative metrics will be important
+to evaluate the impact as you scale your solution; however, when you are just getting
+started is the time to come up with ideas of how you might quantitatively measure
+impact and gather early data to compare to your qualitative assessments.
 
-- **O: Respond to the automated testing needs and priorities of 18F products**
-  - **KR:** Survey existing 18F projects to determine current state of
-    automated testing
-- **O: Effectively disseminate knowledge of automated testing best practices**
-  - **KR:** Complete a full review of the Automated Testing Playbook
-  - **KR:** Develop a Test Certified-like program and recruit three projects to
-    participate
-  - **KR:** Develop a body of in-house training materials
-- **O: Develop, maintain, and promote use of automated testing tools**
-  - **KR:** Publish an Automated Testing Handbook with tools and technical
-    details for specific scenarios
+Measure results at regular intervals, which may be weekly, after each sprint or
+monthly, depending on the cadence of your work. In order to meet quarterly
+objectives, you will need to capture your results more frequently, evaluate,
+and iterate to be confident that you are moving toward the desired outcome.
 
-_(Note: At Google, every individual, team, and department maintains a set of
-quarterly OKRs, as does the entire company.)_
+### <a name="review"></a>Review
+At the end of the quarter, the team will review and assess each outcome
+by its metrics.  This assessment must be thoughtful, rather than driven by
+pure numbers.  The team is encouraged to have an open discussion which gathers
+additional data from the team, in addition to reflecting on metrics:
+
+1. Were there unexpected outcomes?  these could be positive or negative side-effects of the work
+2. Have we noticed changes in behavior that are not captured in our metrics?  (these could be in our team, our solution, the target audience, or the surrouding ecosystem)
+3. Have we learned something about our outcome?  is there anything that makes it less or more desireable? less or more urgent?
+4. Are there additional outcomes we would like to consider?
+
+Any reporting of metrics should include updates to outcomes and metrics, based
+on what was learned.
+
+Outcomes and metrics are designed to produce focus and align expectations.
+This process serves to ensure the team is moving in the direction that the team
+believes will have the most impact, making good progress according to its own
+ambitions, abilities, and resources.
+
+### <a name="examples"></a>Example of Effective Outcomes and Metrics
+When prospective [recruits](#recruiting) and team members see a set of outcomes
+and metrics, they can better understand the priorities and imagine how they can
+contribute to achieving the goals. This increases effective collaboration and
+boosts your credibility as a leader as someone who will ensure that their time is well-spent.
+
+As an example, here are some 18F Engineering team Outcomes and Metrics:
+
+**Outcome:** Streamline project deployment
+* **Metric**: do we have clear measures of project deployment effort, including initial deployment, iterative updates to software, and ATO?
+* **Metric**: time and effort of deployment (we expect to see a reduction by adding service integrations to the Cloud Foundry PaaS for RDS and Elasticsearch)
+
+**Outcome:** Deliver quality products (with visible quality indicators on a dashboard)
+* **Metric**: % projects with automated tests, 508 compliance, and
+fully documented APIs [list shortened for the purposes of this example]
+
 
 ## <a name="roles"></a>Roles
 
@@ -140,7 +170,7 @@ minutes fall under this rubric.
 **Minister of Communication: <span class="role-danger">Mike Bland</span>**<br/>
 Ensures that the Slack channel and other communication media are accessible,
 useful, and broadly used by the group. May suggest alternate communication
-media or innovative uses of the media already in use. 
+media or innovative uses of the media already in use.
 
 **Ministers of Information: <span class="role-ok">Shawn Allen</span>**<br/>
 Solicits and helps cultivate content; in this context, ensures that all
@@ -178,8 +208,7 @@ well.
 A MacGuffin provides [recruits](#recruits) with tangible proof that the
 grouplet exists and _is up to something._ It should be an artifact that invites
 cultivation and can grow along with the grouplet itself, and can provide the
-foundation for one or more of the grouplet's initial [Objectives and Key
-Results](#okrs). Some examples:
+foundation for one or more of the grouplet's initial Outcomes and Metrics](#outcomes). Some examples:
 
 - **18F Documentation Working Group:** [The 18F Hub](https://18f.gsa.gov/hub/)
 - **18F Testing Grouplet**: [The 18F Automated Testing
@@ -189,8 +218,7 @@ Results](#okrs). Some examples:
 
 ## <a name="recruiting"></a>Recruiting
 
-So you've defined a [Mission](#mission), broken out [Objectives and Key
-Results](#okrs), defined fun-sounding [Roles](#roles), started implementing a
+So you've defined a [Mission](#mission), broken out [Outcomes and Metrics](#outcomes), defined fun-sounding [Roles](#roles), started implementing a
 [MacGuffin](#macguffin), and encapsulated all of this into a
 [Two-Pager](#two-pager). Now you're ready to shop around for prospective
 grouplet members!
@@ -295,8 +323,7 @@ meeting will be expected to take notes or produce some other resulting
 artifact to present at the following weekly meeting of the entire grouplet.
 
 It's not always necessary for the organizers to be at every breakout meeting.
-Given a cohesive [Mission](#mission), set of [Objectives and Key
-Results](#okrs), well-defined [Roles](#roles), and a well-maintained [Task
+Given a cohesive [Mission](#mission), set of [Outcomes and Metrics](#outcomes), well-defined [Roles](#roles), and a well-maintained [Task
 List](#tasklist), it's possible that a subset of members are aligned and
 motivated enough to hold their own special meeting without oversight. This is
 actually healthy for the grouplet, as members see themselves as autonomous
@@ -304,10 +331,10 @@ contributors within a community of peers, rather than mere followers of the
 organizers. It's also a chance for members to takes turns driving meetings and
 initiatives before inheriting the organizer role one day.
 
-## <a name="outcomes"></a>Artifacts, Assumptions, and Measurable Outcomes
+## <a name="metrics"></a>Artifacts, Assumptions, and Metrics
 
-This exercise is about evaluating the assumptions behind the "Key Results"
-component of the [Objectives and Key Results](#okrs) process. Create a table
+This exercise is about evaluating the assumptions behind the "Metrics"
+component of the [Outcomes](#outcomes) process. Create a table
 with three columns:
 
 - **Doing/Building this:** A Key Result action or artifact
@@ -316,7 +343,7 @@ with three columns:
   Result that demonstrates the intended impact
 
 Here's an example from the notes for an 18F Documentation Working Group
-[Breakout Meeting](#breakouts) to discuss the group's 2015 Q1 OKRs (credit:
+[Breakout Meeting](#breakouts) to discuss the group's 2015 Q1 Outcomes (credit:
 Nick Brethauer):
 
 <div class="table">
