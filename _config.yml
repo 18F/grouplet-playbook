@@ -50,8 +50,8 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Summary
-  url: tldr/
+- text: Working Groups
+  url: working-groups/
   internal: true
 - text: Guilds
   url: guilds/
