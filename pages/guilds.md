@@ -63,10 +63,7 @@ requirements and may lose dedicated resources; however, it may continue to opera
 
 ## <a name="privileges-and-responsibilities"></a>Privileges and Responsibilities
 
-Sponsorship implies that guilds have a voice in discussions amongst the 18F
-leadership team. This in turn implies that guilds may more easily influence
-the objectives of the broader team than working groups. Collaboration with
-the guild sponsor allows for aligning guild objectives with 18F organizational priorities.
+Sponsorship allows guilds to have a more formal voice in organizational decision-making. Collaboration with the guild sponsor allows guild leaders to align their objectives with 18F organizational priorities.
 
 Guild responsibilities include:
 
