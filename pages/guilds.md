@@ -13,12 +13,12 @@ leadership.
 
 A guild is a cross-functional/horizontal team.  Most people self-select as
 members of the guild, but a guild may require project teams identify a
-guild-liason or augment the team with a guild member to support the team
+guild liaison or augment the team with a guild member to support the team
 or, sometimes, ensure compliance with legal requirements or established practices.
 
-Each Guild must draft a charter, which must include goals and measures,
+Each guild must draft a charter, which must include goals and measures,
 to which they hold each other accountable, and may include
-[objectives and milestones they are working toward]({{site.baseurl}}/processes-and-artifacts/#okrs). Guild leads are accountable for hitting milestones, making progress toward goals,
+[objectives and milestones they are working toward]({{site.baseurl}}/processes-and-artifacts/#okrs). Guild leads are accountable for hitting milestones and making progress toward goals,
 including taking steps to measure progress.  The guild may establish
 requirements for project teams; however, those requirements must clearly
 contribute to project success or legal requirements, and the guild must support
@@ -30,7 +30,7 @@ guild area of expertise.
 If we are, then the guild can provide passive resources and be responsible
 for periodic evaluation or other measures to monitor the strength of the team.
 If needed, guild leaders must carve out enough time to ensure that the guild
-provide appropriate resources for the team, which may involve requesting additional people
+provides appropriate resources for the team, which may involve requesting additional people
 to devote dedicated time for specific projects or activities that are needed to support the work of the guild.
 
 ## <a name="formation"></a>Formation
