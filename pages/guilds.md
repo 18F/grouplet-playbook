@@ -11,7 +11,7 @@ A **Guild** formally recognizes a strong need by 18F
 for a specific skillset that benefits from additional attention and
 leadership.
 
-A guild is a cross-functional/horizontal team.  Most people self-select as
+A guild is a cross-functional, horizontal team. Most people self-select as
 members of the guild, but a guild may require project teams identify a
 guild liaison or augment the team with a guild member to support the team
 or, sometimes, ensure compliance with legal requirements or established practices.
@@ -19,7 +19,7 @@ or, sometimes, ensure compliance with legal requirements or established practice
 Each guild must draft a charter, which must include goals and measures,
 to which they hold each other accountable, and may include
 [objectives and milestones they are working toward]({{site.baseurl}}/processes-and-artifacts/#okrs). Guild leads are accountable for hitting milestones and making progress toward goals,
-including taking steps to measure progress.  The guild may establish
+including taking steps to measure progress. The guild may establish
 requirements for project teams; however, those requirements must clearly
 contribute to project success or legal requirements, and the guild must support
 the project team in meeting those requirements.
@@ -67,15 +67,14 @@ Sponsorship allows guilds to have a more formal voice in organizational decision
 
 Guild responsibilities include:
 
-* Establish a Charter
+* Establish a charter.
 * Develop [standards and/or best practices](https://pages.18.gov/guides/)
-  for work pertaining to the guild's domain
+  for work pertaining to the guild's domain.
 * Help others outside the guild gain experience and understanding of the
-  guild's domain
-* Develop measurable outcomes
+  guild's domain.
+* Develop measurable outcomes.
 * As needed, define and work toward [milestones, artifacts, and
-  deliverables]({{site.baseurl}}/processes-and-artifacts/#okrs)
+  deliverables]({{site.baseurl}}/processes-and-artifacts/#okrs).
 * Provide a model that will set a baseline and standards for the entire
-  organization
-* Create a way to validate how projects are doing with regard to the guild area of expertise
-  that provides clear benefit to the project while minimizing disruption
+  organization.
+* Create a way to validate how projects are doing with regard to the guild area of expertise that provides a clear benefit to the project while minimizing disruption.

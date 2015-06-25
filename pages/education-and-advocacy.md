@@ -1,20 +1,20 @@
 ---
 permalink: /education-and-advocacy/
-title: Education and Advocacy
+title: Education and advocacy
 ---
 Models and strategies for driving adoption of best practices throughout a
 development culture.
 
-- [Abandon Data and Absolute Reason](#abandon-data)
-- [Everything Is Not for Everyone](#everything-is-not-for-everyone)
-- [Crossing the Chasm](#crossing-the-chasm)
-- [The Chasm](#the-chasm)
-- [“Poor Quality” Code Not an Issue](#poor-quality-not-an-issue)
-- [Case Study: Google's Testing Grouplet](#googles-testing-grouplet)
-- [Seize the Teachable Moments!](#seize-the-moment)
-- [Play the Long Game](#play-the-long-game)
+- [Abandon data and absolute reason](#abandon-data)
+- [Everything is not for everyone](#everything-is-not-for-everyone)
+- [Crossing the chasm](#crossing-the-chasm)
+- [The chasm](#the-chasm)
+- [“Poor quality” code not an issue](#poor-quality-not-an-issue)
+- [Case study: Google's testing grouplet](#googles-testing-grouplet)
+- [Seize the teachable moments!](#seize-the-moment)
+- [Play the long game](#play-the-long-game)
 
-## <a name="abandon-data"></a>Abandon Data and Absolute Reason
+## <a name="abandon-data"></a>Abandon data and absolute reason
 
 Best practices are often more about _avoiding_ visible impact than _producing_
 it. Such negative impact is practically [impossible to
@@ -23,7 +23,7 @@ Hence, when it comes to driving adoption of best practices in general,
 experience is the most effective form of persuasion.
 
 Given the distribution of the [diffusion of innovations
-model](http://en.wikipedia.org/wiki/Diffusion_of_innovations), it is
+model](http://en.wikipedia.org/wiki/Diffusion_of_innovations), it's
 inevitable that some will attempt to thwart your efforts to promote certain
 practices by demanding data proving its effectiveness. Disregard those who
 protest in this way; a demand for data proving the effectiveness of automated
@@ -34,14 +34,14 @@ Alternatively, turn the argument around: Ask for the data that conclusively
 made the case for using programming language X, or text editor Y, or hosting
 platform Z.
 
-## <a name="everything-is-not-for-everyone"></a>Everything Is Not for Everyone
+## <a name="everything-is-not-for-everyone"></a>Everything is not for everyone
 
 Taking Test-Driven Development as an example, the end result is well-tested
 code; TDD is not the only means to get there. The goal is to promote best
 practices that people perceive as having value based on their own experience,
 not on the basis of coersion or academic purity.
 
-## <a name="crossing-the-chasm"></a>Crossing the Chasm
+## <a name="crossing-the-chasm"></a>Crossing the chasm
 
 Geoffrey A. Moore’s book *[Crossing the
 Chasm](http://en.wikipedia.org/wiki/Crossing_the_Chasm)* first explains the
@@ -52,13 +52,13 @@ segments of the Bell curve-shaped diffusion of innovations model:
 _Image by Catherine Laplace based on other illustrations of the “Crossing the
 Chasm” model._
 
-- **Innovators and Early Adopters**: Partners-in-Crime; believe in principle;
-  help each other clarify concepts, principles, priorities
-- **Early Majority**: persuaded by results, reason, positive experience
-- **Late Majority**: persuaded by common practice, lack of friction
-- **Laggards**: abandon them; they are useless, dead weight
+- **Innovators and Early Adopters**: Partners-in-crime, believe in principle,
+  help each other clarify concepts, principles, priorities.
+- **Early Majority**: Persuaded by results, reason, positive experience.
+- **Late Majority**: Persuaded by common practice, lack of friction.
+- **Laggards**: Abandon them. They're useless, dead weight.
 
-The Innovators and Early Adopters comprise the “Instigators”. It is their
+The Innovators and Early Adopters comprise the Instigators. It's their
 responsibility to cross the “chasm” identified by Moore as the gap between the
 Early Adopters and the Early Majority. Crossing the Chasm is what determines
 the success or failure of an initiative, as crossing it is necessary to
@@ -89,26 +89,26 @@ Chasm” model and Albert Wong’s framework image._
 
 Fulfilling each step is necessary to producing lasting, positive change. By
 moving from one step to the next (conceptually; in reality many efforts must
-happen in parallel), the Early Majority is transformed from “Dependent” upon
-the Instigators to “Independent”:
+happen in parallel), the Early Majority is transformed from Dependent upon
+the Instigators to Independent:
 
-- **Intervene**: Instigators do the work
-- **Validate**: Instigators validate the efforts of the Early Majority
+- **Intervene**: Instigators do the work.
+- **Validate**: Instigators validate the efforts of the Early Majority.
 - **Inform**: Instigators provide technical information and training to the
-  Early Majority
+  Early Majority.
 - **Inspire**: Instigators motivate the Early Majority and help them feel that
-  their work is valuable
+  their work is valuable.
 - **Mentor**: Instigators build strong relationships with Early Majority
-  members
+  members.
 - **Empower**: Early Majority members are able to do the work, with ongoing
-  support from Instigators
+  support from Instigators.
 
-## <a name="poor-quality-not-an-issue"></a>“Poor Quality” Code Not an Issue
+## <a name="poor-quality-not-an-issue"></a>“Poor quality” code not an issue
 
-“Poor quality” code is not part of the chasm. It is a symptom, not a cause.
+“Poor quality” code is not part of the chasm. It's a symptom, not a cause.
 Spread ideas and remove obstacles, and the code will improve.
 
-## <a name="googles-testing-grouplet"></a>Case Study: Google’s Testing Grouplet
+## <a name="googles-testing-grouplet"></a>Case study: Google’s Testing Grouplet
 
 Google's **Testing Grouplet** was a team of volunteers pooling their 20% time
 to drive adoption of automated developer testing, in the most serious and fun
@@ -136,7 +136,7 @@ Death](../assets/images/testing-grouplet-rainbow-of-death.jpg)<br/>
 _Derived from Albert Wong’s original framework slide from a Google-internal
 tech talk._
 
-## <a name="seize-the-moment"></a>Seize the Teachable Moments!
+## <a name="seize-the-moment"></a>Seize the teachable moments!
 
 “goto fail” and Heartbleed were prime examples of why unit testing is so
 critical. Both bugs were unit-testable, as proven by the working code in the
@@ -154,12 +154,12 @@ When making our arguments, it’s important to emphasize “why” we follow a
 practice as well as “how”. The “why” may be obvious to the Instigators who
 already “get it”, but not necessarily to everyone.
 
-## <a name="play-the-long-game"></a>Play the Long Game
+## <a name="play-the-long-game"></a>Play the long game
 
 Lasting change never comes quickly. Eschew
 _[authoritah](http://shop.southparkstudios.com/SOUTH-PARK-CARTMAN-POSTER-You-will/A/B00302A3OI.htm)_;
 you know telling programmers “do as I say” is a recipe for disaster!
 
 Understand that the problem isn’t purely technical, and it isn’t just about the
-value of a particular practice: it’s about the “chasm”. Hearts and minds must
+value of a particular practice. It’s about the “chasm”. Hearts and minds must
 be persuaded (Early Majority), won (Late Majority), or conquered (laggards).
