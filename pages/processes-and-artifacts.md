@@ -26,7 +26,7 @@ maintain momentum, productivity, and morale.
 
 When faced with the task of forming a new grouplet, a very useful exercise is
 to write a two-page document describing the [mission](#mission) of the
-grouplet, its [objectives and key results](#okrs), and the initial set of
+grouplet, its [Objectives and Key Results](#okrs), and the initial set of
 [roles](#roles) that will form the grouplet's basic structure. This two-pager
 helps to clarify your thinking and course of action, and serves as an effective
 [recruting artifact](#recruiting), as prospective volunteers can get a feel for

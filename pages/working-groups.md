@@ -19,7 +19,7 @@ may be a way for multiple related teams to have open channels of communication,
 such as #wg-training, which provides a place for various training initiatives
 to report on progress, for individuals to ask for help and interested experts
 to give feedback on training initiatives.
-* Each working group should post a general description of the group's purpose in the Slack channel description and set ong or more initial goals. Goals can be added or updated at any time and removed when done or it's decided that they're no longer goals.
+* Each working group should post a general description of the group's purpose in the Slack channel description and set one or more initial goals. Goals can be added or updated at any time and removed when done or it's decided that they're no longer goals.
 
 Memorialize in the (Working Groups folder)[https://github.com/18F/data-private/tree/master/working_groups] with:
 

@@ -89,8 +89,8 @@ Chasm” model and Albert Wong’s framework image._
 
 Fulfilling each step is necessary to producing lasting, positive change. By
 moving from one step to the next (conceptually; in reality many efforts must
-happen in parallel), the Early Majority is transformed from dependent upon
-the Instigators to independent:
+happen in parallel), the Early Majority is transformed from Dependent upon
+the Instigators to Independent:
 
 - **Intervene**: Instigators do the work.
 - **Validate**: Instigators validate the efforts of the Early Majority.
@@ -108,9 +108,9 @@ the Instigators to independent:
 “Poor quality” code is not part of the chasm. It's a symptom, not a cause.
 Spread ideas and remove obstacles, and the code will improve.
 
-## <a name="googles-testing-grouplet"></a>Case study: Google’s testing grouplet
+## <a name="googles-testing-grouplet"></a>Case study: Google’s Testing Grouplet
 
-Google's **Testing Grouplet** was a team of volunteers pooling their 20 percent time
+Google's **Testing Grouplet** was a team of volunteers pooling their 20% time
 to drive adoption of automated developer testing, in the most serious and fun
 ways possible. Some of the more significant efforts included:
 
