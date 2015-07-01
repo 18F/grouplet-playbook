@@ -32,7 +32,7 @@ Memorialize in the (Working Groups folder)[https://github.com/18F/data-private/t
 
 ## Pausing working groups
 * When a working group no longer has objectives or is not regularly meeting or using their Slack channel, any member can propose pausing the working group's efforts.
-* If there is not strong resistance to the idea or a renewal in activity, the working group should be willing to change its status to 'paused'. This should be done by changing the working group's status from 'active' to 'paused' in the (working groups folder)[https://github.com/18F/data-private/tree/master/working_groups], and by requesting in #slack-admins that the group's Slack channel be archived.  
+* If there is not strong resistance to the idea or a renewal in activity, the working group should be willing to change its status to 'paused'. This should be done by changing the working group's status from 'active' to 'paused' in the [working groups folder](https://github.com/18F/data-private/tree/master/working_groups), and by requesting in #slack-admins that the group's Slack channel be archived.  
 
 ## Re-activating a working group
 * Anyone can join a paused working group and re-activate it if they feel that there are new objectives and sufficient interest from the team to pursue them.  
