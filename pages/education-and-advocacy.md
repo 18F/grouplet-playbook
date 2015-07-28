@@ -2,7 +2,7 @@
 permalink: /education-and-advocacy/
 title: Education and advocacy
 ---
-Models and strategies for driving adoption of best practices throughout a
+This page models and strategies for driving adoption of best practices throughout a
 development culture.
 
 - [Abandon data and absolute reason](#abandon-data)
@@ -19,14 +19,14 @@ development culture.
 Best practices are often more about _avoiding_ visible impact than _producing_
 it. Such negative impact is practically [impossible to
 prove](http://mike-bland.com/2012/07/10/test-mercenaries.html#mercs-proving-negatives).
-Hence, when it comes to driving adoption of best practices in general,
+Hence, when it comes to driving adoption of best practices, in general,
 experience is the most effective form of persuasion.
 
 Given the distribution of the [diffusion of innovations
 model](http://en.wikipedia.org/wiki/Diffusion_of_innovations), it's
 inevitable that some will attempt to thwart your efforts to promote certain
 practices by demanding data proving its effectiveness. Disregard those who
-protest in this way; a demand for data proving the effectiveness of automated
+protest in this way: A demand for data proving the effectiveness of automated
 testing is [cowardice masquerading as
 reason](http://martinfowler.com/articles/testing-culture.html#change-stand).
 
@@ -36,17 +36,16 @@ platform Z.
 
 ## <a name="everything-is-not-for-everyone"></a>Everything is not for everyone
 
-Taking Test-Driven Development as an example, the end result is well-tested
-code; TDD is not the only means to get there. The goal is to promote best
-practices that people perceive as having value based on their own experience,
-not on the basis of coersion or academic purity.
+Taking Test-driven development (TDD) as an example, the end result is well-tested
+code. TDD is not the only means to get there. The goal is to promote best
+practices that people perceive as having value based on their own experience
+rather than coersion or academic purity.
 
 ## <a name="crossing-the-chasm"></a>Crossing the chasm
 
 Geoffrey A. Moore’s book *[Crossing the
 Chasm](http://en.wikipedia.org/wiki/Crossing_the_Chasm)* first explains the
-different
-segments of the Bell curve-shaped diffusion of innovations model:
+different segments of the bell curve-shaped diffusion of innovations model:
 
 ![Diffusion of Innovations and the Chasm](../assets/images/the-chasm.jpg)<br/>
 _Image by Catherine Laplace based on other illustrations of the “Crossing the
@@ -75,7 +74,7 @@ characterized as:
 
 The chasm is best crossed via persuasion, not force (laggards
 notwithstanding). Albert Wong’s “Rainbow of Death” model from “[Large Scale
-Development Culture Change: Google and the US
+Development Culture Change: Google and the U.S.
 Government](https://18f.gsa.gov/2014/12/11/large-scale-development-culture-change/)”
 describes a progression of activities Instigators must undertake to lead the
 Early Majority across the chasm.
@@ -110,7 +109,7 @@ Spread ideas and remove obstacles, and the code will improve.
 
 ## <a name="googles-testing-grouplet"></a>Case study: Google’s Testing Grouplet
 
-Google's **Testing Grouplet** was a team of volunteers pooling their 20% time
+Google's **Testing Grouplet** was a team of volunteers pooling their 20 percent time
 to drive adoption of automated developer testing, in the most serious and fun
 ways possible. Some of the more significant efforts included:
 
@@ -151,8 +150,8 @@ existing works. Such activities build a body of knowledge and give our
 arguments scholarly weight.
 
 When making our arguments, it’s important to emphasize “why” we follow a
-practice as well as “how”. The “why” may be obvious to the Instigators who
-already “get it”, but not necessarily to everyone.
+practice as well as “how.” The “why” may be obvious to the Instigators who
+already “get it” but not necessarily to everyone.
 
 ## <a name="play-the-long-game"></a>Play the long game
 
