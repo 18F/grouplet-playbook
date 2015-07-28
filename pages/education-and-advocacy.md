@@ -2,7 +2,7 @@
 permalink: /education-and-advocacy/
 title: Education and advocacy
 ---
-This page models and strategies for driving adoption of best practices throughout a
+This page contains models and strategies for driving adoption of best practices throughout a
 development culture.
 
 - [Abandon data and absolute reason](#abandon-data)
