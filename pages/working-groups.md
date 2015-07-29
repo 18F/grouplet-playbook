@@ -32,5 +32,5 @@ Memorialize the following information in the (working groups folder)[https://git
 * If there's no renewel in activity and no strong resistance to a proposed hiatus, the working group should change its status to "paused." Do this by changing the working group's status from "active" to "paused" in the [working groups folder](https://github.com/18F/data-private/tree/master/working_groups), and by requesting in #slack-admins that the group's Slack channel be archived.  
 
 ## Re-activating a working group
-* Anyone can join a paused working group and reactivate it if they feel that new objectives and sufficient interest exists from the team to pursue them.  
+* Anyone can join a paused working group and reactivate it if they feel that new objectives and sufficient interest exist from the team to pursue them.  
 * Reactivate a group by requesting the reactivation of the working group's Slack channel in #slack-admins and changing the working group's status from "paused" to "active" in the (working groups folder)[https://github.com/18F/data-private/tree/master/working_groups].  
