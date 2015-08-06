@@ -27,7 +27,9 @@ Memorialize the following information in the (working groups folder)[https://git
 * Status
 * Slack channel
 
-## Pausing working groups
+<a name="pausing"></a>
+
+## Pausing working groups 
 * When a working group no longer has objectives or isn't regularly meeting or using their Slack channel, any member can propose pausing the working group's efforts.
 * If there's no renewal in activity and no strong resistance to a proposed hiatus, the working group should change its status to "paused." Do this by changing the working group's status from "active" to "paused" in the [working groups folder](https://github.com/18F/data-private/tree/master/working_groups), and by requesting in #slack-admins that the group's Slack channel be archived.  
 
