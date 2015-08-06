@@ -9,8 +9,8 @@ think on something.
 ## Birth process for working groups
 * Anyone in 18F can launch a working group at any time.  
 * We recommended asking for feedback in #general, #teamops, #wg-working_groups, or a related Slack channel before forming a working group.
-* The minimum components for a working group are a Slack channel (starting with 'wg-') and a Google document for notes and collaboration.  
-* Identify a mission, objectives, and projects.  
+* The minimum components for a working group are a Slack channel (starting with 'wg-') and a GitHub repo for notes and collaboration.  
+* Identify a mission, objectives, and projects. 
 * Weigh quantitative or qualitative measurements.  
 * Most working groups have one or two leaders. That said, some working groups
 may be a way for multiple related teams to have open channels of communication,
