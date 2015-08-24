@@ -19,13 +19,13 @@ to report on progress, for individuals to ask for help, and for interested exper
 to give feedback on training initiatives.
 * Each working group should post a general description of the group's purpose in their Slack channel description and set one or more initial goals. Goals can be added or updated at any time and removed when done or it's decided that they're no longer goals.
 
-Memorialize the following information in the [working groups folder](https://github.com/18F/data-private/tree/master/working_groups):
-* Leads
-* Mission
-* Quantitative or qualitative measurements and key results 
-* Projects
-* Status
-* Slack channel
+Memorialize the following information in the [working groups folder](https://github.com/18F/data-private/tree/master/working_groups):  
+* Leads  
+* Mission  
+* Quantitative or qualitative measurements and key results   
+* Projects  
+* Status  
+* Slack channel  
 
 <a name="pausing"></a>
 
