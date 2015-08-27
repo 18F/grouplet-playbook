@@ -2,7 +2,7 @@
 permalink: /processes-and-artifacts/
 title: Processes and artifacts
 ---
-Processes and artifacts help grouplet organize,
+Processes and artifacts help grouplets organize,
 maintain momentum, improve productivity, and increase morale.
 
 - [The two-pager](#two-pager)
@@ -103,7 +103,7 @@ other grouplet members, grouplets must establish a basic,
 functional team structure. Rather than adopting a heavy-handed
 command-and-control style, have fun with the role names! The prospective
 separation of responsibilities as defined in the [two-pager](#two-pager) gives
-prospective [recruits](#recruiting) a sense that the team is (or will become) 
+prospective [recruits](#recruiting) a sense that the team is (or will become)
 organized and efficient, while keeping actual titles fun sends a
 message that the group is not about piling additional work onto people for the
 sake of the organizer's personal ambition.
@@ -192,8 +192,8 @@ Results](#okrs), defined fun-sounding [roles](#roles), started implementing a
 [two-pager](#two-pager). Now you're ready to shop around for prospective
 grouplet members!
 
-There are two paths you can take, and you can change roads 
-at any point.
+There are two paths you can go by, but in the long run, there's still time to
+change the road you're on:
 
 - **One-on-one**: Set up brief appointments with prospective recruits to engage
   them in-person. Walk them through the [two-pager](#two-pager) and ask for
@@ -295,9 +295,9 @@ It's not always necessary for the organizers to be at every breakout meeting.
 Given a cohesive [mission](#mission), set of [Objectives and Key
 Results](#okrs), well-defined [roles](#roles), and a well-maintained [task
 list](#tasklist), it's possible that a subset of members are aligned and
-motivated enough to hold their own special meeting without oversight. This is 
+motivated enough to hold their own special meeting without oversight. This is
 healthy for the grouplet, as members see themselves as autonomous
-contributors in a community of peers. 
+contributors in a community of peers.
 It's also a chance for members to takes turns driving meetings and
 initiatives before inheriting the organizer role one day.
 
