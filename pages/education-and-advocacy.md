@@ -47,7 +47,7 @@ Geoffrey A. Moore’s book *[Crossing the
 Chasm](http://en.wikipedia.org/wiki/Crossing_the_Chasm)* first explains the
 different segments of the bell curve-shaped diffusion of innovations model:
 
-![Diffusion of Innovations and the Chasm](../assets/images/the-chasm.jpg)<br/>
+![Diffusion of Innovations and the Chasm](../images/the-chasm.jpg)<br/>
 _Image by Catherine Laplace based on other illustrations of the “Crossing the
 Chasm” model._
 
@@ -80,9 +80,9 @@ describes a progression of activities Instigators must undertake to lead the
 Early Majority across the chasm.
 
 ![Crossing the Chasm via the Rainbow of
-Death](../assets/images/crossing-the-chasm-rainbow-of-death.jpg)<br/>
+Death](../images/crossing-the-chasm-rainbow-of-death.jpg)<br/>
 ![Close-up of Crossing the Chasm via the Rainbow of
-Death](../assets/images/rainbow-of-death.jpg)<br/>
+Death](../images/rainbow-of-death.jpg)<br/>
 _Images by Catherine Laplace based on other illustrations of the “Crossing the
 Chasm” model and Albert Wong’s framework image._
 
@@ -131,7 +131,7 @@ This is how these efforts and a few others fit into the "Rainbow of Death"
 model:
 
 ![The Google Testing Grouplet's Rainbow of
-Death](../assets/images/testing-grouplet-rainbow-of-death.jpg)<br/>
+Death](../images/testing-grouplet-rainbow-of-death.jpg)<br/>
 _Derived from Albert Wong’s original framework slide from a Google-internal
 tech talk._
 
