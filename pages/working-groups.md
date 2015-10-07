@@ -35,4 +35,4 @@ Memorialize the following information in the [working groups folder](https://git
 
 ## Re-activating a working group
 * Anyone can join a paused working group and reactivate it if they feel that new objectives and sufficient interest exist from the team to pursue them.  
-* Reactivate a group by requesting the reactivation of the working group's Slack channel in #slack-admins and changing the working group's status from "paused" to "active" in the [working groups folder](https://github.com/18F/data-private/tree/master/working_groups).  
+* Reactivate a group by requesting the reactivation of the working group's Slack channel in #slack-admins and changing the working group's status from "paused" to "active" in the working group's `about.yml file`. 
