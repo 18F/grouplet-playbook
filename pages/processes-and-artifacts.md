@@ -55,7 +55,7 @@ At the end of the quarter, the team will review and self-grade each OKR, as well
 
 OKRs are designed to produce focus and enable calibration of expectations. Self-grading is a feedback process; a low grade doesn't necessarily denote failure, nor does a high grade denote success. The process serves to ensure the team is moving in the direction of its own choosing, and making satisfactory progress according to its own ambitions.
 
-When prospective [recruits](#recruiting) see a set of OKRs in your [two-pager](#two-pager), they can better understand the priorities and begin to imagine how the grouplet can succeed in acheiving its goals. This boosts your credibility as a leader, as someone who will ensure that their limited time is well-spent in the context of the grouplet.
+When prospective [recruits](#recruiting) see a set of OKRs in your [two-pager](#two-pager), they can better understand the priorities and begin to imagine how the grouplet can succeed in acheiving its goals. This boosts your credibility as a leader, as someone who will ensure that their limited time is well spent in the context of the grouplet.
 
 As an example, here are propspective OKRs for the 18F Testing Grouplet:
 
